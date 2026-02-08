@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0",
+  "lastUpdated": "2026-02-08T18:00:00Z",
+  "modpacks": [
+    {
+      "id": "adventure",
+      "name": "Mewtropolis Adventure",
+      "path": "modpacks/adventure/manifest.json",
+      "version": "1.0.0",
+      "visible": true
+    }
+  ]
+}
